@@ -4,7 +4,7 @@ This portfolio is a small project using HTML,CSS and bootstrap. I will be using 
 
 [Live heroku deployment](https://portfolioharry.herokuapp.com/)
 
-[Screenshot]portfolio output![Image](C:\Users\k800m\Desktop\image.png)
+[Screenshot]portfolio output(![C:\Users\k800m\Desktop\image.png])
 
 ## Technologies used
 
