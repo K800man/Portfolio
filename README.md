@@ -4,7 +4,10 @@ This portfolio is a small project using HTML,CSS and bootstrap. I will be using 
 
 [Live heroku deployment](https://portfolioharry.herokuapp.com/)
 
-[Screenshot](![https://files.slack.com/files-pri/T01360WELP6-F036D796PH9/image.png])
+![image](https://user-images.githubusercontent.com/98416487/157556512-6ac192db-4f55-422d-a8b6-c66160c6c9b5.png)
+
+
+
 
 ## Technologies used
 
